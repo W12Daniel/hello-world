@@ -15,7 +15,7 @@ florida the other most beutiful ![florida][b]
 this is the best image about our world ![earth](http://flatplanet.sourceforge.net/maps/images/earth.jpg "earth")
 so andry you asked me that i show you best palce of our home so [checked this](https://en.wikipedia.org/wiki/Hungary) 
 
-this may be this is the best place [balaton][a]
-this isnt the right place [alfold][b]
+this may be this is the best place [balaton][a]  
+this isnt the right place [alfold][b]  
 [a]: http://www.balaton.hu/
 [b]: https://hu.wikipedia.org/wiki/Alf%C3%B6ld
