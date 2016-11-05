@@ -7,3 +7,5 @@ what a suprise
   23123  
 ![california][a]  
 [a]: https://upload.wikimedia.org/wikipedia/commons/5/51/Palm_Trees_in_San_Jose_California.jpg "california"
+![florida][b]
+[b]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "florida"
