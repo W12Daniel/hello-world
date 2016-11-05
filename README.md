@@ -6,10 +6,10 @@ what a suprise
 2. sadsadsda
   23123  
 
-![california][a]  
+![california][linka]  
 ![florida][b] 
 
-[a]: https://upload.wikimedia.org/wikipedia/commons/5/51/Palm_Trees_in_San_Jose_California.jpg "california"
+[linka]: https://upload.wikimedia.org/wikipedia/commons/5/51/Palm_Trees_in_San_Jose_California.jpg "california"
 [b]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "florida" 
 
 this is the best image about our world ![earth](http://flatplanet.sourceforge.net/maps/images/earth.jpg "earth")
