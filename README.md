@@ -9,7 +9,7 @@ what a suprise
 ![california][linka]  
 ![florida][b] 
 
-[linka]: http://www.nintendo.com/images/page/wiiu/features/hero-1.jpg "wii u"
+[linka]: https://upload.wikimedia.org/wikipedia/commons/5/51/Palm_Trees_in_San_Jose_California.jpg "california"
 [b]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "florida" 
 
 this is the best image about our world ![earth](http://flatplanet.sourceforge.net/maps/images/earth.jpg "earth")
