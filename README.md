@@ -5,7 +5,7 @@ what a suprise
 1. asdasd
 2. sadsadsda
   23123  
-![california][a]  
+california the one of the most beutiful place ![california][a]  
 [a]: https://upload.wikimedia.org/wikipedia/commons/5/51/Palm_Trees_in_San_Jose_California.jpg "california"
 ![florida][b]
 [b]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "florida"
