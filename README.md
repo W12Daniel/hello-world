@@ -25,7 +25,8 @@ this isnt the right place [alfold][b]
   * szarisd meg a hagymat
     * hagymak akkor jok ha a alfoldi
 
-1. almat felvagni
+1. almat 
+  zabva
 2. berakni a sutoben
 3. fahej
   
