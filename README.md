@@ -17,5 +17,5 @@ so andry you asked me that i show you best palce of our home so [checked this](h
 
 this may be this is the best place [balaton][a]  
 this isnt the right place [alfold][b]  
-[a]: http://www.balaton.hu/
+[a]: http://www.tihany.hu/index.php/en/
 [b]: https://hu.wikipedia.org/wiki/Alf%C3%B6ld
