@@ -34,3 +34,5 @@ this isnt the right place [alfold][b]
 >"this is my first step to a new world"
 
 >"what is it with you"
+This isnt a good idea!
+But if you think it is, i wont argue with you
