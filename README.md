@@ -37,3 +37,6 @@ this isnt the right place [alfold][b]
 This isnt a good idea!
 But if you think it is, i wont argue with you
 haha
+
+this the new level[of wonderfull][linkc]
+[linkc]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "miami"
