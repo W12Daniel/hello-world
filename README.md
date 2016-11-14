@@ -38,5 +38,5 @@ This isnt a good idea!
 But if you think it is, i wont argue with you
 haha
 
-![of wonderfull][linkc]
+this is the roght place ![of wonderfull][linkc]
 [linkc]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "miami"
