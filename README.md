@@ -69,3 +69,8 @@ unordered:
   * tomato
   * garlic
      * purple version 
+1. move to los angeles
+2. make a own post
+
+dont forget pay for the place
+3. pack out your boxes
