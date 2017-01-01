@@ -63,3 +63,8 @@ I allways said,that is in the book
 >"You have to make the first step to god,and he will do the same thing"
 >
 >"you dont want to accept that the environment won't change until you have the same thought _this is the first point_
+unordered:  
+good sandwitch:
+  * salate
+  *tomato
+  *garlic
