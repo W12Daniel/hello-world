@@ -61,3 +61,5 @@ and how awful is a ![jelly fish][second image]
 
 I allways said,that is in the book
 >"You have to make the first step to god,and he will do the same thing"
+>
+>"you dont want to accept that the environment won't change until you have the same thought
