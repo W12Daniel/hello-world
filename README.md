@@ -58,3 +58,6 @@ and how awful is a ![jelly fish][second image]
 
 [fist image]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MattiParkkonen_Orava.jpg/260px-MattiParkkonen_Orava.jpg "squirrel"
 [second image]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Capo_Gallo_Rizosthoma_pulmo.JPG/250px-Capo_Gallo_Rizosthoma_pulmo.JPG "jelly fish"
+
+I allways said,that is in the book
+>"You have to make the first step to god,and he will do the same thing"
