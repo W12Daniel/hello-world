@@ -24,7 +24,7 @@ this isnt the right place [alfold][b]
 * vegyel egy hagymat
   * lehetoleg mosd meg
   * szarisd meg a hagymat
-    * hagymak akkor jok ha a alfoldi
+     * hagymak akkor jok ha a alfoldi
 
 1. almat 
   zabva
@@ -68,4 +68,4 @@ unordered:
   * salate
   * tomato
   * garlic
-    *purple version 
+      *purple version 
