@@ -51,7 +51,7 @@ And if you want more than ,you can find it right [here][example2]
 [example1]: http://www.nyelvora.com/magyar-nyelvtan/magyar-nyelvtan.html
 [example2]: http://tudasbazis.sulinet.hu/hu/magyar-nyelv-es-irodalom/magyar-nyelv/magyar-nyelv
 
-this isn a good pictures about this ![animal](https://lh5.ggpht.com/WLSUWqj9TsA2T5gcaWe4zpNJq1i81kRHIGDSm5aJ9wM1QijBqlnVSkV7V_f9Oy3S1Lg=h310)
+this isn a good pictures about this ![animal](https://lh5.ggpht.com/WLSUWqj9TsA2T5gcaWe4zpNJq1i81kRHIGDSm5aJ9wM1QijBqlnVSkV7V_f9Oy3S1Lg=h310)  
 how cut is actually a ![squirrel][fist image]
 and how awful is a ![jelly fish][second image]
 
