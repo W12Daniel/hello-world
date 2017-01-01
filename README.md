@@ -92,5 +92,10 @@ new list:
 2. make the gift  
    watch out  
    watch
+<<<<<<< HEAD
 3. tada23132
 
+=======
+3. tada
+4. super
+>>>>>>> new
