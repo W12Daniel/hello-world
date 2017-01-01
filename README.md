@@ -76,7 +76,9 @@ unordered:
 
   dont forget pay for the place
 3. pack out your boxes
+
 ![BEAR](http://static.boredpanda.com/blog/wp-content/uploads/2016/09/mother-bear-cubs-animal-parenting-21-57e3a2161d7f7__880.jpg "bear")
+
 new list
 1. make a list  
    write something
