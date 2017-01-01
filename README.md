@@ -64,7 +64,7 @@ I allways said,that is in the book
 >
 >"you dont want to accept that the environment won't change until you have the same thought _this is the first point_
 unordered:  
-good sandwitch:  
+* good sandwitch:  
   * salate
   * tomato
   * garlic
