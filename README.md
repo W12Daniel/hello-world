@@ -42,4 +42,4 @@ this is the roght place ![of wonderfull][linkc]
 [linkc]: http://www.worldpropertyjournal.com/news-assets/miami-florida.jpg "miami"
 **_Why_**
 ##why dont you _understand_ me?
-you will see it[check out](www.google.hu)
+you will see it [check out](https://hu.wikipedia.org/wiki/Kezd%C5%91lap)
