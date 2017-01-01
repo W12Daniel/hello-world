@@ -68,8 +68,4 @@ unordered:
   * salate
   * tomato
   * garlic
-     *purple version 
-* vegyel egy hagymat
-  * lehetoleg mosd meg
-  * szarisd meg a hagymat
-     * hagymak akkor jok ha a alfoldi
+     * purple version 
