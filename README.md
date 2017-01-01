@@ -79,7 +79,8 @@ unordered:
 
 ![BEAR](http://static.boredpanda.com/blog/wp-content/uploads/2016/09/mother-bear-cubs-animal-parenting-21-57e3a2161d7f7__880.jpg "bear")
 
-new list  
+new list:  
+
 1. make a list  
    write something
    dont forget anything
